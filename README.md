@@ -10,4 +10,5 @@ movielens_capstone.Rmd is found at
   https://github.com/SarahSorlien/movielens-capstone/blob/b62233aabe35c6efa4b124cd75971bbef0a07990/movielens_capstone.Rmd
 
 movielens_capstone.pdf is found at
+  https://github.com/SarahSorlien/movielens-capstone/blob/38526b18fc9b960cac77101969815666cf7804fe/movielens_capstone.pdf
   
